@@ -1,0 +1,8 @@
+# 原厂备份与补丁状态：可由同版本 npm 包重装再生，不入库
+backups/
+*-patch-state.json
+.context-window-patch-state.json
+
+# 临时文件
+*.tmp
+*.ctxpatch.tmp
